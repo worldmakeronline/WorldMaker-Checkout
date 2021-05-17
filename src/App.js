@@ -64,7 +64,7 @@ export default function App() {
           console.log(submitError);
           return (
             <form onSubmit={handleSubmit}>
-              <h3>Subscription Type</h3>
+              <h3>Subscription Type Hello</h3>
               <div>
                 <Field
                   name="type"
